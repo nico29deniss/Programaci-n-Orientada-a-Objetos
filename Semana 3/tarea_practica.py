@@ -158,4 +158,3 @@ datos_ciudades = [
 ]
 
 calcular_temperatura_promedio_ciudades(datos_ciudades)
-
